@@ -33,6 +33,7 @@ I'm a responsible and dedicated full-stack developer. Eager to continue learning
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?=for-the-badge&logo=symfony&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-blue?logo=Spring)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-green?logo=Eclipse%20IDE)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?=for-the-badge&logo=mysql&logoColor=white)
@@ -50,6 +51,6 @@ I'm a responsible and dedicated full-stack developer. Eager to continue learning
 
 <br>
 
-<p> <img align="left"  src="https://github-readme-stats.vercel.app/api?username=jordimall&show_icons=true&locale=en&theme=tokyonight" alt ="jordimall" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api?username=jordimall&show_icons=true&locale=en&theme=tokyonight" alt ="jordimall" /></p>
  
-<p><img align="center" width="354" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordimall&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jordimall" /></p>
+<p><img align="center" width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordimall&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jordimall" /></p>
